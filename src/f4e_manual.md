@@ -1,7 +1,7 @@
 # F-4E Manual
 
 <!-- markdownlint-disable MD033 -->
-<img class="line_art_logo" alt="F4 Line Art" width="200" src="img/f4line_black.svg">
+<img class="line_art_logo" alt="F4 Line Art" width="200" src="./img/f4line_black.svg">
 <!-- markdownlint-enable MD033 -->
 
 ## Contents
@@ -17,7 +17,10 @@
 9. [DCS](dcs/overview.md)
 10. [Abbreviations](abbreviations.md)
 11. [Imprint](imprint.md)
-
+    
+## JTAF Training Material
+1. [JTAF](JTAF/overview.md)
+   
 <!-- markdown-link-check-disable -->
 This document is available [online](https://f4.manuals.heatblur.se/),
 as [PDF version](https://github.com/Heatblur-Simulations/f-4e-manual/releases),
