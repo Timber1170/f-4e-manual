@@ -1,0 +1,32 @@
+![JTAF Logo](img/Logo.png)
+
+# **Casper's F-4E Checklists**
+
+## [F-4E Checklists Pilot](./pilot/overview.md)
+   * [Before Interior Inspection](./pilot/before_interior_inspection.md)
+   * [Interior Inspection](./pilot/interior_inspection.md)
+   * [Before Starting Engines](./pilot/before_starting_engines.md)
+   * [Starting Engines](./pilot/starting_engines.md)
+   * [Before Taxi](./pilot/before_taxi.md)
+   * [Taxi](./pilot/taxi.md)
+   * [Before Takeoff](./pilot/before_takeoff.md)
+   * [After Runway Lineup](./pilot/after_runway_lineup.md)
+   * [Normal Takeoff](./pilot/normal_takeoff.md)
+   * [After Takeoff - Climb](./pilot/after_takeoff_climb.md)
+   * [Cruise](./pilot/cruise.md)
+   * [Descent/Before Landing](./pilot/descent_before_landing.md)
+   * [In Pattern (below 210 knots)](./pilot/in_pattern.md)
+   * [Missed Approach](./pilot/missed_approach.md)
+   * [Landing](./pilot/landing.md)
+   * [After Landing](./pilot/after_landing.md)
+   * [Engine Shutdown](./pilot/engine_shutdown.md)
+   * [Before Leaving Cockpit](./pilot/before_leaving_cockpit.md)
+   * 
+
+## [F-4E Checklists WSO](./wso/overview.md)
+   * [Before Interior Inspection](./pilot/before_interior_inspection.md)
+   * [Interior Inspection](./pilot/interior_inspection.md)
+   * [Interior Inspection](./pilot/interior_inspection.md)
+   * [Interior Inspection](./pilot/interior_inspection.md)
+   * [Interior Inspection](./pilot/interior_inspection.md)
+   * [Interior Inspection](./pilot/interior_inspection.md)
