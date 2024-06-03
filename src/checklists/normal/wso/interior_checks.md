@@ -29,7 +29,7 @@
 |8.|  <input type="checkbox">  | Emergency Gear Handle | [IN & SECURE](../../../cockpit/wso/left_sub_panel.md#emergency-landing-gear-handle) |
 |9.|  <input type="checkbox">  | Emergency Brake Handle | [IN & SECURE](../../../cockpit/wso/left_sub_panel.md#emergency-brake-handle) |
 |10.|  <input type="checkbox">  | Slats Flaps Position Indicator | [IN & UP](../../../cockpit/wso/left_sub_panel.md#landing-gearflap-indicator-panel) |
-|11.|  <input type="checkbox">  | Landing Gear Pos Indicators | [GEAR DOWN](../../../cockpit/wso/left_sub_panel.md#landing-gearflap-indicator-panel) |
+|11.|  <input type="checkbox">  | Landing Gear Pos Indicators | [GEAR DOWN INDICATED](../../../cockpit/wso/left_sub_panel.md#landing-gearflap-indicator-panel) |
 |12.|  <input type="checkbox">  | Canopy Emergency Jettison Handle | [FORWARD](../../../cockpit/wso/left_console/wall.md#emergency-canopy-jettison-handle) |
 |13.|  <input type="checkbox">  | Radar Scope | [SECURE](../../../cockpit/wso/pedestal_group.md#pedestal-group) |
 |14.|  <input type="checkbox">  | Attitude Indicator | [CHECK and SET⚡](../../../cockpit/wso/upfront_indicators.md#attitude-indicator) |

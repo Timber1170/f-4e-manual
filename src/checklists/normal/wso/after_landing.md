@@ -9,7 +9,7 @@
 |3.|  <input type="checkbox">  | (P-WSO) DSCG (some aircraft) | [OFF](../../../cockpit/wso/pedestal_group.md#mode-knob) |
 |4.|  <input type="checkbox">  | Cockpit Pressure Indicator | [CHECK](../../../cockpit/wso/left_console/aft_section.md#cockpit-altitude-gauge) |
 |5.|  <input type="checkbox">  | (P-WSO) Lower ejection handle guard | UP |
-|6.|  <input type="checkbox">  | AN/ALE-40 | [OFF](../../../cockpit/wso/left_console/center_section.md#anale-40-cockpit-control-unit-ccu) |
+|6.|  <input type="checkbox">  | AN/ALE-40 Chaff Dispenser | [OFF](../../../cockpit/wso/left_console/center_section.md#anale-40-cockpit-control-unit-ccu) |
 |7.|  <input type="checkbox">  | Radar Power | [OFF](../../../cockpit/wso/left_console/center_section.md#power-knob) |
 |  |                           | Wait 15s if Mode 4 selector was set to HOLD | |
 |8.|  <input type="checkbox">  | AVTR | [OFF](../../../cockpit/wso/left_sub_panel.md#avtr-control) |
