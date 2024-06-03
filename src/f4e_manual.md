@@ -17,9 +17,7 @@
 9. [DCS](dcs/overview.md)
 10. [Abbreviations](abbreviations.md)
 11. [Imprint](imprint.md)
-    
-## JTAF Training Material
-1. [JTAF](JTAF/overview.md)
+
    
 <!-- markdown-link-check-disable -->
 This document is available [online](https://f4.manuals.heatblur.se/),

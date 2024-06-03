@@ -1,7 +1,124 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Interior Inspection Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+||| Checklist Item | Action |
+||| ---------------| -------|
+|1.|<input type="checkbox">|Ejection Seat Height|[ADJUST⚡](../../../cockpit/pilot/stick_seat.md#seat-position)|
+|2.|<input type="checkbox">|Auxiliary Armament Control Panel|[SET](../../../cockpit/pilot/left_console/aft_section.md#aft-section)|
+||<input type="checkbox">|a. Gyro Switch|[NORM](../../../cockpit/pilot/left_console/aft_section.md#gyro-fast-erect-switch)||
+||<input type="checkbox">|b. Aural Tone Control Knob|[LOW](../../../cockpit/pilot/left_console/aft_section.md#aural-tone-control)||
+||<input type="checkbox">|c. Boarding Step Pos Indicator|[PROTRUDING](../../../cockpit/pilot/left_console/aft_section.md#boarding-steps-indicator)||
+|3.|  <input type="checkbox">  |Slats Override Switch | [NORM](../../../cockpit/pilot/left_console/wall.md#slats-override-switch) |
+|4.|<input type="checkbox">|Intercom Control Panel|[SET](../../../cockpit/pilot/left_console/aft_section.md#intercom-system-control-panel)|
+||<input type="checkbox">|a. Volume Control|AS DESIRED||
+||<input type="checkbox">|b. Amplifier Select Knob|NORM||
+||<input type="checkbox">|c. Function Selector Switch|HOT MIC||
+|5.|<input type="checkbox">|ALE-40 Flares Switch|[NORMAL](../../../systems/defensive_systems/countermeasures.md#flares-select-switch)|
+|6.|<input type="checkbox">|Fuel Control Panel|[SET](../../../cockpit/pilot/left_console/center_section.md#fuel-control-panel)|
+||<input type="checkbox">|a. Internal Wing Transfer Switch|NORMAL|
+||<input type="checkbox">|b. Internal Wing Dump Switch|NORM|
+||<input type="checkbox">|c. Refuel Select Switch|ALL TANKS|
+||<input type="checkbox">|d. External Transfer Switch|AS REQUIRED|
+||<input type="checkbox">|e. Air Refuel Switch|RETRACT|
+|7.|  <input type="checkbox">  | Stab Aug Switches | [OFF](../../../cockpit/pilot/left_console/center_section.md#afcs-control-panel) |
+|8.|  <input type="checkbox">  | Boost Pumps | [CHECK⚡](../../../cockpit/pilot/left_console/center_section.md#boost-pump-check-switches) |
+|||Actuate left boost pump check switch observe that the left boost pump pressure indicator readts 30+-5PSI. Allow 3 sec after release tof the left switch, then repeat with right boost pump. Ensure that the test switches return to NORMAL||
+|9.|<input type="checkbox">|VOR/ILS Panel|[SET](../../../cockpit/pilot/left_console/center_section.md#vorils-control-panel)|
+||<input type="checkbox">|a. Volume Control Knob|AS DESIRED|
+||<input type="checkbox">|b. Marker Volume Knob|AS DESIRED|
+||<input type="checkbox">|c. VOR/MKR test switch|TEST⚡|
+|10.|  <input type="checkbox">  | Slats/Flaps Switch | [AS REQUIRED](../../../cockpit/pilot/left_console/wall.md#slatsflaps-control-panel) |
+|||Slats/Flaps switch should correspond with indicators||
+|11.|  <input type="checkbox">  | Emergency Slats/Flaps Handle | [FORWARD](../../../cockpit/pilot/left_console/wall.md#emergency-slatsflaps-handle) |
+|12.|  <input type="checkbox">  | Drag Chute Control Handle | [DOWN & SECURE](../../../cockpit/pilot/stick_seat.md#drag-chute-handle) |
+|13.|  <input type="checkbox">  | Speed Brake Switch | [IN](../../../cockpit/pilot/left_console/front_section.md#speed-brake) |
+|14.|  <input type="checkbox">  | Comm Antenna Select Switch | [UPR](../../../cockpit/pilot/left_console/front_section.md#communications-antenna-select-switch) |
+|||Anti-skid and nose wheel steering may malfuntion while transmitting on the lower antenna due to electromagnetic interference||
+|15.|  <input type="checkbox">  | Engine Anti-Icing Switch | [Normal](../../../cockpit/pilot/left_console/front_section.md#engine-anti-icing-switch) |
+|16.|<input type="checkbox">|Anti-Skid|[CHECK⚡](../../../cockpit/pilot/left_console/front_section.md#anti-skid-switch)|
+||<input type="checkbox">|a. Anti-Skid Switch On|LIGHT OFF|
+||<input type="checkbox">|b. Emergency Quick Release Lever|DEPRESS/LIGHT ON AND RELEASE LIGHT OFF|
+||<input type="checkbox">|c. Anti-Skid Switch Off|LIGHT ON|
+|17.|  <input type="checkbox">  | ARI Circuit Breaker  | [IN](../../../cockpit/pilot/left_sub_panel.md#aileron-rudder-interconnect-ari-circuit-breaker) |
+|18.|  <input type="checkbox">  | Landing and Taxi Light Switch | [OFF](../../../cockpit/pilot/left_sub_panel.md#landingtaxi-lights-switch) |
+|19.|  <input type="checkbox">  | Slats Flaps Position Indicator | [SELECTED POSITION](../../../cockpit/pilot/left_sub_panel.md#slatsflaps-indicators) |
+|20.|  <input type="checkbox">  | Landing Gear Position Indicator | [GEAR DOWN INDICATION](../../../cockpit/pilot/left_sub_panel.md#landing-gear-position-indicators) |
+|21.|  <input type="checkbox">  | Emergency Brake Control Handle | [IN AND SECURE](../../../cockpit/pilot/left_sub_panel.md#emergency-brake-handle) |
+|22.|  <input type="checkbox">  | Canopy Emergency Jettison Handle | [IN & SECURE](../../../cockpit/pilot/left_console/wall.md#emergency-canopy-jettison-handle) |
+|23.|<input type="checkbox">|Multiple Weapons Control Panel|[SET](../../../cockpit/pilot/weapon_management.md)|
+||<input type="checkbox">|a. Master Arm Switch Switch|[SAFE](../../../cockpit/pilot/weapon_management.md#master-arm-switch)|
+||<input type="checkbox">|b. Delivery Mode Knob|[OFF](../../../cockpit/pilot/weapon_management.md#delivery-mode-knob)|
+||<input type="checkbox">|c. Weapon Select Knob|[C](../../../cockpit/pilot/weapon_management.md#weapon-selector-knob)|
+||<input type="checkbox">|d. Radar Missile Power Switch|[OFF](../../../cockpit/pilot/weapon_management.md#radar-missile-power-switch)|
+||<input type="checkbox">|e. Selective Jettison Knob|[OFF](../../../cockpit/pilot/weapon_management.md#selective-jettison-control)|
+||<input type="checkbox">|f. Interlock Switch|[IN](../../../cockpit/pilot/weapon_management.md#interlock-switch)|
+||<input type="checkbox">|g. CL TK Light|[ON IF CL TANK IS INST](../../../cockpit/pilot/weapon_management.md#centerline-tank-aboard-light)|
+|24.|  <input type="checkbox">  | Accelerometer | [SET](../../../cockpit/pilot/pedestal_group.md#accelerometer) |
+|25.|  <input type="checkbox">  | Flight Instrument Light Control | [AS REQUIRED](../../../cockpit/pilot/weapon_management.md#flight-instrument-brightness-knob) |
+|26.|  <input type="checkbox">  | Clock | [WIND & SET](../../../cockpit/pilot/left_sub_panel.md#8-day-clock) |
+|27.|  <input type="checkbox">  | Optical Sight Reticle | CHECK |
+|28.|  <input type="checkbox">  | Film Magazine/ Dust Cover | SECURE |
+|29.|<input type="checkbox">|ADI|[CHECK AND SET⚡](../../../cockpit/pilot/flight_director_group.md#attitude-director-indicator)|
+||<input type="checkbox">|a. Rotate Pitch Trim Knob to Check Travel(-10° +5° minimum)||
+||<input type="checkbox">|b. Set Horizon Bar Level With Miniature Aircraft||
+|30.|<input type="checkbox">|Emergency Attitute Indicator|[CHECK](../../../cockpit/pilot/flight_director_group.md#standby-attitude-indicator)|
+||<input type="checkbox">|a. Cage And Do Not Lock||
+||<input type="checkbox">|b. Set Miniature Aircraft Level With Horizon Bar||
+|31.|<input type="checkbox">|Navigation Function Selector Panel|[SET](../../../cockpit/pilot/flight_director_group.md#navigation-function-selector-panel)|
+||<input type="checkbox">|a. Bearing Distance Selector Switch|AS DESIRED|
+||<input type="checkbox">|b. Mode Selector Knob|AS DESIRED|
+|32.|  <input type="checkbox">  | Fire Warning Lights | [TEST](../../../cockpit/pilot/right_main_panel.md#fire-test-button) |
+|33.|  <input type="checkbox">  | Canopy Manual Unlock Handle | [FORWARD](../../../cockpit/pilot/right_console/wall.md#canopy-manual-unlock-handle) |
+|34.|  <input type="checkbox">  | Arresting Hook Handle | [UP](../../../cockpit/pilot/right_sub_panel.md#arresting-hook-control-handle) |
+|35.|<input type="checkbox">|Communication-Navigation Control Panel|[SET](../../../cockpit/pilot/right_console/front_section.md#communication-control-panel)|
+||<input type="checkbox">|a. Comm Freq Control Knobs|AS REQUIRED|
+||<input type="checkbox">|b. Comm Channel Control Knob|AS REQUIRED|
+||<input type="checkbox">|c. Mode Selector Switch|AS REQUIRED|
+||<input type="checkbox">|d. Comm Vol Control Knob|AS DESIRED|
+||<input type="checkbox">|e. Aux Channel Control Knob|AS REQUIRED|
+||<input type="checkbox">|f. Aux Vol Control Knob|AS DESIRED|
+||<input type="checkbox">|g. COMM-AUX Pushbutton|TR+G - ADF|
+||<input type="checkbox">|h. Nav Vol Control Knobs|AS REQUIRED|
+||<input type="checkbox">|i. TACAN Funct Selector Knob|[OFF](../../../cockpit/pilot/right_console/front_section.md#tacan-control-panel)|
+||<input type="checkbox">|j. Comm Command Button|AS DESIRED|
+||<input type="checkbox">|k. Nav Command Button|AS DESIRED|
+|36.|  <input type="checkbox">  | Emergency Vent Knob | [IN](../../../cockpit/pilot/right_console/front_section.md#emergency-vent-handle) |
+|37.|  <input type="checkbox">  | Rain Removel Switch | [OFF](../../../cockpit/pilot/right_console/front_section.md#utility-panel-right) |
+|38.|  <input type="checkbox">  | Pitot Heat | [CHECK⚡🔧](../../../cockpit/pilot/right_console/front_section.md#utility-panel-right) |
+|39.|  <input type="checkbox">  | Defog-Footheat Control Handle | [AS DESIRED](../../../cockpit/pilot/right_console/front_section.md#defogfoot-heat-lever) |
+|40.|  <input type="checkbox">  | IFF Mode IV Function Switch | [AS DESIRED](../../../cockpit/pilot/right_console/center_section.md#iff-control-panel) |
+|41.|  <input type="checkbox">  | IFF Master Control Knob | [OFF](../../../cockpit/pilot/right_console/center_section.md#iff-control-panel)|
+|42.|  <input type="checkbox">  | Circuit Breakers | [Check](../../../cockpit/pilot/right_console/wall.md#circuit-breaker-panel) |
+|43.|<input type="checkbox">|Temperature Control Panel|[SET](../../../cockpit/pilot/right_console/center_section.md#temperature-control)|
+||<input type="checkbox">|a. Temp Control Knob|AS DESIRED|
+||<input type="checkbox">|b. Mode Selector Switch|AUTO|
+|44.|<input type="checkbox">|DCU-94/A Bomb Control Monitor Panel (not simulated)|[SET](../../../cockpit/pilot/right_console/center_section.md#dcu-94a-stores-control-monitor-panel)|
+||<input type="checkbox">|a. Station Selector Switches|AFT|
+||<input type="checkbox">|b. Master Release Lock Switch|AFT|
+||<input type="checkbox">|c. Option Selector Knob|OFF|
+|45.|<input type="checkbox">|Cockpit Light Control Knob|[AS REQUIRED](../../../cockpit/pilot/right_console/center_section.md#cockpit-lighting-control-panel)|
+||<input type="checkbox">|a. White Floodlight Switch|OFF|
+||<input type="checkbox">|b. Instrument Panel Lights Control Knob|AS REQUIRED|
+||<input type="checkbox">|c. Console Lights Control Knob|AS REQUIRED|
+||<input type="checkbox">|d. Standby Compass Light Switch|AS REQUIRED|
+||<input type="checkbox">|e. Console Floodlight Switch|AS REQUIRED|
+||<input type="checkbox">|f. Indexer Lights Control Knob|[AS REQUIRED](../../../cockpit/pilot/right_console/wall.md#formation-and-indexer-lights-control-panel)|
+|46.|  <input type="checkbox">  | Warning and Indicator Lights | [TEST⚡](../../../cockpit/pilot/right_console/center_section.md#warning-light-test-switch)|
+|47.|  <input type="checkbox">  | Instrument Flood Lights | [OFF](../../../cockpit/pilot/right_console/wall.md#instrument-flood)|
+|48.|  <input type="checkbox">  | Aural Stall Warning Volume | [AS DESIRED](../../../cockpit/pilot/right_console/wall.md#stall-warning)|
+|49.|<input type="checkbox">|Compass Control Panel|[SET](../../../cockpit/pilot/right_console/aft_section.md#compass-control-panel)|
+||<input type="checkbox">|a. Latitude Compensator|SET|
+||<input type="checkbox">|b. Mode Control Knob|SLAVED|
+||<input type="checkbox">|c. Syncronization Indicator|CHECK|
+|50.|<input type="checkbox">|Exterior Lights Control Panel|[SET](../../../cockpit/pilot/right_console/aft_section.md#exterior-lights-control-panel)|
+||<input type="checkbox">|a. Fuselage Lights Switch|AS REQUIRED|
+||<input type="checkbox">|b. Wing Lights Switch|AS REQUIRED|
+||<input type="checkbox">|c. Tail Lights Switch|AS REQUIRED|
+||<input type="checkbox">|d. Exterior Lights Flasher Switch|AS REQUIRED|
+||<input type="checkbox">|e. Formation Lights Control Knob|AS REQUIRED|
+|51.|  <input type="checkbox">  | Instrument Lights Intensity Control Panel | [SET](../../../cockpit/pilot/right_console/wall.md#flight-instrument-lights-intensity-panel) |
+|52.|  <input type="checkbox">  | Intercom System | [Check](../../../cockpit/pilot/left_console/aft_section.md#intercom-system-control-panel) |
+|53.|  <input type="checkbox">  | Oxygen Quantity Gauge | [Check](../../../cockpit/pilot/left_console/front_section.md#oxygen-regulator-and-oxygen-quantity-gauge) |
+|||Check quantity sufficient, OFF flag not visible, OXYGEN LOW light extinguished. PRess oxygen test button and check OXYGEN LOW light and MASTER CAUTION light illuminate at 1 litre. Notify rear crewmember, if applicable that test is in progress|Cannot Be Done With Battery Start|
+|54.|  <input type="checkbox">  | Oxygen Supply System | [Check & SET](../../../cockpit/pilot/left_console/front_section.md#oxygen-regulator-and-oxygen-quantity-gauge) |

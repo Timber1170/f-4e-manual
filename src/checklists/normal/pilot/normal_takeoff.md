@@ -1,7 +1,21 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Normal Takeoff Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+| | | ---------------| -------|
+|1.|  <input type="checkbox">  | Wheel Brakes | [APPLY](../../../systems/flight_controls_gear/gear_ground_handling.md#wheel-brakes) |
+|2.|  <input type="checkbox">  | Throttle | [85% RPM MAX](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|3.|<input type="checkbox">|Engine Gauges|[CHECK](../../../cockpit/pilot/right_main_panel.md#right-main-panel)|
+||<input type="checkbox">|a. Exhaust Gas Temp|[450 °C](../../../cockpit/pilot/right_main_panel.md#exhaust-gas-temperature-gauges)|
+||<input type="checkbox">|b. Fuel Flow|[4000 pph](../../../cockpit/pilot/right_main_panel.md#fuel-flow-gauges)|
+||<input type="checkbox">|c. Nozzles|[1/4](../../../cockpit/pilot/right_main_panel.md#exhaust-nozzle-position-indicators)|
+||<input type="checkbox">|d. Oil Pressure|[30 - 40 psi](../../../cockpit/pilot/pedestal_group.md#engine-oil-pressure-indicators)|
+|4.|  <input type="checkbox">  | Wheel Brakes | [RELEASE](../../../systems/flight_controls_gear/gear_ground_handling.md#wheel-brakes) |
+|5.|  <input type="checkbox">  | Throttle | [MIL](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|6.|  <input type="checkbox">  | Engine Gauges | [CHECK](../../../cockpit/pilot/right_main_panel.md#right-main-panel) |
+|7.|  <input type="checkbox">  | Throttle | [AFTERBURNER (IF DESIRED)](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|8.|  <input type="checkbox">  | Nose Gear Steering | [DISENGAGE at 70 kn](../../../cockpit/pilot/stick_seat.md#nose-wheel-steering-button) |
+|9.|  <input type="checkbox">  | Stick | [MOVE AFT at 80 kn](../../../cockpit/pilot/stick_seat.md#stick) |
+|10.|  <input type="checkbox">  | Pitch Attitude | [MAINTAIN 10 to 12 deg] |
+|11.|  <input type="checkbox">  | Trim | [AS REQUIRED](../../../cockpit/pilot/stick_seat.md#trim-hat) |

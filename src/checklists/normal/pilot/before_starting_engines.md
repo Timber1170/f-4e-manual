@@ -1,7 +1,10 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Before Starting Engines Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+||| ---------------| -------|
+|1.|  <input type="checkbox">  | Seat Pins | CHECK REMOVED & STOWED|
+|2.|  <input type="checkbox">  | Fore and Aft Area | CLEAR |
+|3.|  <input type="checkbox">  | Fire Guard | POSTED |
+|4.|  <input type="checkbox">  | Throttles | [OFF](../../../cockpit/pilot/left_console/front_section.md#throttles) |

@@ -1,7 +1,10 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Missed Approach Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Throttles | [MILITARY OR AB](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|2.|  <input type="checkbox">  | Gear | [UP](../../../cockpit/pilot/left_sub_panel.md#landing-gear-handle) |
+|3.|  <input type="checkbox">  | Slats & Flaps | [NORM (180kn MIN)](../../../cockpit/pilot/left_console/wall.md#slatsflaps-control-panel) |
+|4.|  <input type="checkbox">  | Throttles | [AS REQUIRED](../../../cockpit/pilot/left_console/front_section.md#throttles) |

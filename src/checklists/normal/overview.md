@@ -1,4 +1,4 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../JTAF/img/Logo.png)
 
 # **Casper's F-4E Checklists**
 
@@ -21,12 +21,19 @@
    * [After Landing](./pilot/after_landing.md)
    * [Engine Shutdown](./pilot/engine_shutdown.md)
    * [Before Leaving Cockpit](./pilot/before_leaving_cockpit.md)
-   * 
 
 ## [F-4E Checklists WSO](./wso/overview.md)
-   * [Before Interior Inspection](./pilot/before_interior_inspection.md)
-   * [Interior Inspection](./pilot/interior_inspection.md)
-   * [Interior Inspection](./pilot/interior_inspection.md)
-   * [Interior Inspection](./pilot/interior_inspection.md)
-   * [Interior Inspection](./pilot/interior_inspection.md)
-   * [Interior Inspection](./pilot/interior_inspection.md)
+   * [Before Electrical Power](./wso/before_electrical_power.md)
+   * [After Electrical Power](./wso/after_electrical_power.md)
+   * [Full Gyrocompass Alignment (time: variable)](./wso/full_gyrocompass_alignment.md)
+   * [INS Fast BATH Alignment (time: approx. 2:15)](./wso/ins_fast_bath_alignment.md)
+   * [INS Stored Heading Alignment (time: approx. 2:15)](./wso/ins_stored_heading_alignment.md)
+   * [Interior Checks](./wso/interior_checks.md)
+   * [Before Taxi](./wso/before_taxi.md)
+   * [Taxi](./wso/taxi.md)
+   * [Before Takeoff](./wso/before_takeoff.md)
+   * [After Runway Lineup](./wso/after_runway_lineup.md)
+   * [Cruise](./wso/cruise.md)
+   * [After Landing](./wso/after_landing.md)
+   * [Engine Shutdown](./wso/engine_shutdown.md)
+   * [Before Leaving Cockpit](./wso/before_leaving_cockpit.md)

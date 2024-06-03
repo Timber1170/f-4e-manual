@@ -1,7 +1,11 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **In Pattern(below 210 knots) Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Gear | [DOWN](../../../cockpit/pilot/left_sub_panel.md#landing-gear-handle) |
+|2.|  <input type="checkbox">  | Slats & Flaps | [OUT & DOWN](../../../cockpit/pilot/left_console/wall.md#slatsflaps-control-panel) |
+|3.|  <input type="checkbox">  | Hydraulic Pressure | [CHECK](../../../cockpit/pilot/pedestal_group.md#hydraulic-pressure-indicators) |
+|4.|  <input type="checkbox">  | Warning Lights | [CHECK](../../../cockpit/pilot/right_sub_panel.md#telelight-annunciator-panel) |
+|5.|  <input type="checkbox">  | Anti-Skid | [ON & LIGHT OUT](../../../cockpit/pilot/left_console/front_section.md#anti-skid-switch) |

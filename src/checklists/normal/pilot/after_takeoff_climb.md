@@ -1,7 +1,11 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **After Takeoff - Climb Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+| | | ---------------| -------|
+|1.|  <input type="checkbox">  | Gear | [UP](../../../cockpit/pilot/left_sub_panel.md#landing-gear-handle) |
+|2.|  <input type="checkbox">  | Slats & Flaps | [NORM (180 kn MIN)](../../../cockpit/pilot/left_console/wall.md#slatsflaps-control-panel) |
+|3.|  <input type="checkbox">  | Pitch | [ADJUST 10° - 12° TILL 350 KIAS](../../../cockpit/pilot/flight_director_group.md#attitude-director-indicator) |
+|4.|  <input type="checkbox">  | Airspeed | [ADJUST PITCH TO HOLD 350 KIAS](../../../cockpit/pilot/flight_director_group.md#airspeed-and-mach-indicator) |
+|5.|  <input type="checkbox">  | Heading | [ACCORDING TO FLIGHT PLAN](../../../cockpit/pilot/flight_director_group.md#horizontal-situation-indicator) |

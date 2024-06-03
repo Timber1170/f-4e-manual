@@ -1,7 +1,10 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Landing Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Above Runway | GENTLY FLARE|
+|2.|  <input type="checkbox">  | At Touchdown | [THROTTLES TO IDLE](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|3.|  <input type="checkbox">  | Drag Chute | [DEPLOY](../../../systems/flight_controls_gear/gear_ground_handling.md#drag-chute-system) |
+|4.|  <input type="checkbox">  | Wheel Brake (below 70kn)| [ENGAGE](../../../systems/flight_controls_gear/gear_ground_handling.md#wheel-brakes) |

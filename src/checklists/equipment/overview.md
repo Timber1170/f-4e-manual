@@ -1,4 +1,4 @@
-![JTAF Logo](img/Logo.png)
+![JTAF Logo](JTAF/img/Logo.png)
 
 # **JTAF F-4E Training Syllabus Courses**
 
