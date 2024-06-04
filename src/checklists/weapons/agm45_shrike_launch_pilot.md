@@ -1,7 +1,9 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **AGM-45 Shrike Launch (Pilot) Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Master Arm Switch | [ARM](../../cockpit/pilot/weapon_management.md#master-arm-switch) |
+|2.|  <input type="checkbox">  | ADI Vertical Director Pointer | [NULL](../../cockpit/pilot/flight_director_group.md#attitude-director-indicator) |
+|3.|  <input type="checkbox">  | Bomb Button | [PRESS](../../cockpit/pilot/stick_seat.md#trigger-and-bomb-button) |

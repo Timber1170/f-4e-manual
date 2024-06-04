@@ -1,7 +1,14 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Rockets Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Delivery Mode Selector Knob | [DIRECT](../../cockpit/pilot/weapon_management.md#delivery-mode-knob) |
+|2.|  <input type="checkbox">  | Sight Mode Selector Knob | [A/G](../../cockpit/pilot/dscg_controls.md#sight-mode-knob) |
+|3.|  <input type="checkbox">  | Reticle Depression Knob | [SET](../../cockpit/pilot/dscg_controls.md#reticle-depression-knob) |
+|4.|  <input type="checkbox">  | Weapon Selector Knob | [RKTS & DISP](../../cockpit/pilot/weapon_management.md#weapon-selector-knob) |
+|5.|  <input type="checkbox">  | AWRU Qty | [SINGLE OR RIPPLE](../../cockpit/pilot/weapon_management.md#quantity-knob) |
+|6.|  <input type="checkbox">  | Station Select Buttons | [SELECT STATIONS](../../cockpit/pilot/weapon_management.md#station-select-buttons) |
+|7.|  <input type="checkbox">  | Master Arm | [ARM](../../cockpit/pilot/weapon_management.md#master-arm-switch) |
+|8.|  <input type="checkbox">  | Bomb Button | [DEPRESS](../../cockpit/pilot/stick_seat.md#trigger-and-bomb-button) |

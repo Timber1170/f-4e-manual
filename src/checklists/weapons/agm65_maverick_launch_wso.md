@@ -1,7 +1,11 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **AGM-65 Maverick Launch (WSO) Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Action Switch | [HALF ACTION](../../cockpit/wso/right_console/front_section.md#antenna-hand-control) |
+|2.|  <input type="checkbox">  | Seeker | [SLEW OVER TGT](../../cockpit/wso/right_console/front_section.md#antenna-hand-control) |
+|4.|  <input type="checkbox">  | Action Switch | [FA/RELEASE TO LOCK TGT](../../cockpit/wso/right_console/front_section.md#action-switch-trigger) |
+|5.|  <input type="checkbox">  | (P or WSO) Bomb Button | [PRESS AND HOLD](../../cockpit/wso/stick_seat.md#trigger-and-bomb-button) |
+|6.|  <input type="checkbox">  | For Next Missile | REPEAT STEP 2 TO 4 |

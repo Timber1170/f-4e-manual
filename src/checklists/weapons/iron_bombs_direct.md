@@ -1,7 +1,18 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Iron Bombs (Direct) Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Optical Sight | [SET](../../systems/weapon_systems/lcoss.md#lead-computing-optical-sight-system-lcoss) |
+|  |  <input type="checkbox">  | Sight Mode | [A/G](../../cockpit/pilot/dscg_controls.md#sight-mode-knob) |
+|  |  <input type="checkbox">  | Reticle Depression | [SET](../../cockpit/pilot/dscg_controls.md#reticle-depression-knob) |
+|2.|  <input type="checkbox">  | Weapon Selector | [BOMBS](../../cockpit/pilot/weapon_management.md#weapon-selector-knob) |
+|3.|  <input type="checkbox">  | Delivery Mode | [DIRECT](../../cockpit/pilot/weapon_management.md#delivery-mode-knob) |
+|4.|  <input type="checkbox">  | AWRU | [SET](../../cockpit/pilot/weapon_management.md#aircraft-weapons-release-unit) |
+|  |  <input type="checkbox">  | a. Interval Controls | [SET](../../cockpit/pilot/weapon_management.md#interval-knob) |
+|  |  <input type="checkbox">  | b. Quantity Knob | [SET](../../cockpit/pilot/weapon_management.md#quantity-knob) |
+|5.|  <input type="checkbox">  | Nose/Tail Arm Switch | [AS REQUIRED](../../cockpit/pilot/weapon_management.md#nosetail-arming-switch) |
+|6.|  <input type="checkbox">  | Station Select Button | [SELECT STATIONS](../../cockpit/pilot/weapon_management.md#station-select-buttons) |
+|7.|  <input type="checkbox">  | Master Arm | [ARM](../../cockpit/pilot/weapon_management.md#master-arm-switch) |
+|8.|  <input type="checkbox">  | Bomb Button | [PRESS](../../cockpit/pilot/stick_seat.md#trigger-and-bomb-button) |

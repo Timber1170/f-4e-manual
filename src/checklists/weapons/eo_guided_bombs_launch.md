@@ -1,7 +1,10 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **EO-Guided Bombs Launch Checklist**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Pipper Position | [OVER TARGET](../../systems/weapon_systems/lcoss.md#reticle-image) |
+|2.|  <input type="checkbox">  | Trigger | [FIRST STAGE AND HOLD TILL RELEASE](../../cockpit/pilot/stick_seat.md#trigger-and-bomb-button) |
+|3.|  <input type="checkbox">  | Bomb Button | [PRESS AND HOLD TILL RELEASE](../../cockpit/pilot/stick_seat.md#trigger-and-bomb-button) |
+|4.|  <input type="checkbox">  | For Next Missile | REPEAT STEP 2 and 3 |
