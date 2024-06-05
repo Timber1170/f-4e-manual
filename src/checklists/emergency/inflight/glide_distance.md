@@ -1,7 +1,5 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Glide Distance**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+With Both Engines failed, the aircraft will glide approximately 6 nautical miles for each 5000 feet AGL. The recommended glide airspeed for maximum range with both engines out is 215 knots. This speed will allow the windmilling engines to maintain power control hydraulic pressures within safe limits but not be optimum for airstart.

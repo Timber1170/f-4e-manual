@@ -1,7 +1,15 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Emergency Procedure Checklists**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
 
-## Training Structure
+* [In-Flight Emergency Checklists](./inflight/overview.md)
+  * [Out-Of-Control Recovery](./inflight/out_of_control_recovery.md)
+  * [Up-Right Spin](./inflight/upright_spin.md)
+  * [Single Engine Failure During Flight](./inflight/engine_failure_during_flight.md)
+  * [Double Engine Failure During Flight](./inflight/double_engine_failure_during_flight.md)
+  * [Engine Fire Or Overheating During Flight](./inflight/engine_fire_or_overheat_during_flight.md)
+  * [Compressor Stall](./inflight/compressor_stall.md)
+  * [Glide Distance](./inflight/glide_distance.md)
+* [Landing Emergency Procedures](./landing/overview.md)
+  * [Single Engine Landing](./landing/single_engine_landing.md)

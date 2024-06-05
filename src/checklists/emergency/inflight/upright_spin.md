@@ -1,7 +1,10 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Upright Spin**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Stick | [MAINTAIN FULL FORWARD](../../../cockpit/pilot/stick_seat.md#stick) |
+|2.|  <input type="checkbox">  | Ailerons | [FULL WITH SPIN (TURN NEEDLE)](../../../cockpit/pilot/flight_director_group.md#attitude-director-indicator) |
+|3.|  <input type="checkbox">  | Aircraft Unloaded | AILERONS NEUTRAL |
+|4.|  <input type="checkbox">  | If Out Of Control At Or Below 10.000ft AGL | [EJECT](../../../cockpit/pilot/stick_seat.md#seat) |

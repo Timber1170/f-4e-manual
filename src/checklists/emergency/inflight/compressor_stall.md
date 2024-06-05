@@ -1,7 +1,15 @@
-![JTAF Logo](JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
-# **JTAF F-4E Training Syllabus Courses**
+# **Compressor Stall**
 
-The training structure for the JTAF F-4E aircraft includes a series of courses designed to meet the needs and learning objectives of different types of DCS users. These courses are further divided into five main categories: Orientation and General Information (X Series), The Basic Course (B Series), The Advanced Course (A Series), The Instructor Course (I Series), and The Weapons School (W Series).
-
-## Training Structure
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
+|1.|  <input type="checkbox">  | Throttle | [IDLE](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|- | -                         | If stall does not clear: |- |
+|2.|  <input type="checkbox">  | Generator Switch | [OFF](../../../cockpit/pilot/right_console/front_section.md#generator-control-switches) |
+|3.|  <input type="checkbox">  | Throttle | [OFF](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|4.|  <input type="checkbox">  | Inlet Ramps | [CHECK FULLY RETRACTED](../../../systems/engines_and_fuel_systems/engines.md#variable-duct-ramp) |
+|5.|  <input type="checkbox">  | Ignition Button | [HOLD PRESSED](../../../cockpit/pilot/left_console/front_section.md#ignition-buttons) |
+|6.|  <input type="checkbox">  | Throttle | [IDLE](../../../cockpit/pilot/left_console/front_section.md#throttles) |
+|7.|  <input type="checkbox">  | RPM, EGT, Oil Pressure & Fuel Flow | [MONITOR](../../../cockpit/pilot/right_main_panel.md#right-main-panel) |
+|8.|  <input type="checkbox">  | Generator Switch | [ON](../../../cockpit/pilot/right_console/front_section.md#generator-control-switches) |
