@@ -1,4 +1,4 @@
-![JTAF Logo](../../../JTAF/img/Logo.png)
+![JTAF Logo](../../JTAF/img/Logo.png)
 
 # **AGM-12 Bullpup Launch (Pilot) Checklist**
 

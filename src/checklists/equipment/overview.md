@@ -1,4 +1,4 @@
-![JTAF Logo](../../../JTAF/img/Logo.png)
+![JTAF Logo](../../JTAF/img/Logo.png)
 
 # **F-4E Equipment Checklists**
 

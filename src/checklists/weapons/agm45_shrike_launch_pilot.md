@@ -1,4 +1,4 @@
-![JTAF Logo](../../../JTAF/img/Logo.png)
+![JTAF Logo](../../JTAF/img/Logo.png)
 
 # **AGM-45 Shrike Launch (Pilot) Checklist**
 

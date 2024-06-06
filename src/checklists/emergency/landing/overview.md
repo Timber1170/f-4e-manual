@@ -1,4 +1,4 @@
-![JTAF Logo](../JTAF/img/Logo.png)
+![JTAF Logo](../../../JTAF/img/Logo.png)
 
 # **Landing Emergency Procedure Checklists**
 
