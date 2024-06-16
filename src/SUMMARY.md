@@ -194,7 +194,7 @@
 - [Abbreviations](./abbreviations.md)
 - [Imprint](./imprint.md)
 
-# Casper's Checklists
+# Interactive Checklists
 - [Casper's Checklists](./checklists/overview.md)
   - [Checklists](./checklists/normal/overview.md)
     - [Pilot Checklists](./checklists/normal/pilot/overview.md)
@@ -267,6 +267,10 @@
       - [Glide Distance](./checklists/emergency/inflight/glide_distance.md)
     - [Landing Emergency Procedures](./checklists/emergency/landing/overview.md)
       - [Single Engine Landing](./checklists/emergency/landing/single_engine_landing.md)
+  - [RWR Idendification Sounds](./checklists/rwr/overview.md)
+    - [Airborne RWR Idendification Sounds](./checklists/rwr/airborne_radars.md)
+    - [Ground RWR Idendification Sounds](./checklists/rwr/ground_radars.md)
+    - [Seaborne Idendification Sounds](./checklists/rwr/sea_radars.md)
 
 # JTAF Training Materials
 - [Overview](./JTAF/overview.md)
