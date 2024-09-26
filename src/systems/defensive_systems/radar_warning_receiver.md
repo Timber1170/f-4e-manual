@@ -68,7 +68,7 @@ below the Central Indicator in the front of the view.
 #### Mode
 
 The ALR-46 defaults on power-up to OPEN mode (<num>1</num>), which presents up to 16 threats on the
-display atone time, depending on how many emitters are visible and current system settings (Search,
+display at one time, depending on how many emitters are visible and current system settings (Search,
 LOW ALT, etc.). In the event the crew requires immediate prioritization of the most pressing threats
 in a saturated environment, the PRIORITY button can be pressed to display the five emitters the
 system deems the most dangerous. When pressed, the OPEN illumination will swap to the PRIORITY
@@ -301,3 +301,10 @@ selected a ship symbol will be displayed in the lower half of azimuth.
 | ![rwr_u_one_dot_symbol.jpg](../../img/rwr_u_one_dot_symbol.jpg)         | Unknown (Low band)                                                                                                                                      |
 | ![rwr_u_two_dot_symbol.jpg](../../img/rwr_u_two_dot_symbol.jpg)         | Unknown (Medium band)                                                                                                                                   |
 | ![rwr_u_three_dot_symbol.jpg](../../img/rwr_u_three_dot_symbol.jpg)     | Unknown (High band)                                                                                                                                     |
+
+### Missiles
+
+| Symbol                                              | Possible threat      |
+|-----------------------------------------------------|----------------------|
+| ![rwr_corr_msl.jpg](../../img/rwr_corr_msl.jpg)     | correlated missile   |
+| ![rwr_uncorr_msl.jpg](../../img/rwr_uncorr_msl.jpg) | uncorrelated missile |
