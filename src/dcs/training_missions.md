@@ -86,11 +86,11 @@ We hope you like what you have in hands now!
 
 This section is limited to the description of the first 5 lessons:
 
-- Lesson 01a - (PILOT) Startup
-- Lesson 01b - (WSO) Startup
-- Lesson 02 - (PILOT) Taxi
-- Lesson 03 - (PILOT) Normal Takeoff
-- Lesson 04 - (PILOT) Visual approach
+- [Lesson 01a - (PILOT) Startup](./training_missions.md#lesson-01a---pilot-startup)
+- [Lesson 01b - (WSO) Startup](./training_missions.md#lesson-01b---wso-startup)
+- [Lesson 02 - (PILOT) Taxi](./training_missions.md#lesson-02---pilot-taxi)
+- [Lesson 03 - (PILOT) Normal Takeoff](./training_missions.md#lesson-03---pilot-normal-takeoff)
+- [Lesson 04 - (PILOT) Visual approach](./training_missions.md#lesson-04---pilot-visual-approach)
 
 ## General Tips & Tricks
 
@@ -103,7 +103,7 @@ Here are some general tips & tricks as created by testers during the testing pha
   - Wait until the other jets have taken off before beginning with the lesson.
   - You are allowed to close the canopy whenever you need to (default binding is LCTRL+C), despite
     the F-4 usually closes it very lately
-  - Adjust the audio volume of DCS to suit the autio hardware you are using.
+  - Adjust the audio volume of DCS to suite the audio hardware you are using.
 - If you have troubles with a very dark cockpit, a few things can be done:
   - Use the internal cockpit illumination on the COCKPIT LIGHTS panel (right side):
     - The CONSOLE OFF/BRT knob
@@ -115,6 +115,7 @@ Here are some general tips & tricks as created by testers during the testing pha
 
 - Set the SYSTEM option "Cockpit Global Illumination" to ON
 - Set the SYSTEM option "Gamma" to 2.0 or higher values.
+- Set the SYSTEM option "Shadows" off as the very last resort.
 
 ## Lesson got stuck
 
@@ -296,11 +297,11 @@ Caused by an accident on the taxiway "S" just before your flight, it was decided
 taxiway.
 Therefore, a new temporary ramp position, which is located directly on the
 threshold runway 07, was established. You will take off from that location and then divert to
-Tiblisi.
+Vaziani.
 
 ![lesson_01b_temporary_ramp_rwy07](../img/Lesson01b_temporary_ramp_position.jpg)
 
-All other registered sorties for this afternoon have been cancelled.
+All remaining sorties for this afternoon will take-off from there.
 
 ### Lesson 01b - Aircraft
 
@@ -366,6 +367,18 @@ Here are some special tips for lesson 01b:
   This task is to be accomplished by you alone, without big guidance from the pilot. Only for
   a few steps he will say something, mostly these are steps that you just have to confirm.
   Otherwise, he is busy on his own checklists ...
+- Task 5 (engine start):
+  Make sure you pull the throttle lever in the simulation back to "IDLE" position in order for
+  the lesson logic to continue. The background is the following: Users reported about problems
+  when performing this step. In all cases reported so far, the real throttle lever was pulled
+  back to (its) IDLE position, but the throttle lever in the simulation did not reach the
+  "IDLE" position, but became stuck a bit too far forward.
+  Therefore, please make sure that your real throttle levers are able to move the throttle levers
+   in the sim over the whole range:
+  - "MAX" (which is 100% RPM with full afterburner)
+  - "MIL" (which is 100% RPM without afterburner)
+  - "IDLE" (which is 65% RPM)
+  - "OFF" (which is fuel shut off)
 
 ## Lesson 02 - (PILOT) Taxi
 
