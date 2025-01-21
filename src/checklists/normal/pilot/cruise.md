@@ -2,8 +2,8 @@
 
 # **Cruise Checklist**
 
-|Step|| Checklist Item | Action |
-|----|| ---------------| -------|
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
 |1.||(P-WSO) Altimeters| |
 | |<input type="checkbox">||[SET](../../../cockpit/pilot/flight_director_group.md#altimeter)|
 | |<input type="checkbox">||CHECK STBY|

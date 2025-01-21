@@ -2,8 +2,8 @@
 
 # **Before Taxi Checklist**
 
-||| Checklist Item | Action |
-||| ---------------| -------|
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
 |1.|  <input type="checkbox">  | COMM & NAV Equipment | [ON & CHECK](../../../cockpit/pilot/right_console/front_section.md#communication-control-panel) |
 |2.|  <input type="checkbox">  | IFF | [STANDBY](../../../cockpit/pilot/right_console/center_section.md#iff-control-panel) |
 |3.|  <input type="checkbox">  | Radar Altimeter | [ON & CHECK](../../../cockpit/pilot/flight_director_group.md#radar-altimeter) |

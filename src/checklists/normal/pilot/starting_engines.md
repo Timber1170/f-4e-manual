@@ -3,7 +3,7 @@
 # **Starting Engines Checklist**
 
 | | | Checklist Item | Action |
-||| ---------------| -------|
+|-|-| ---------------| -------|
 |1.|  <input type="checkbox">  | External Air Source | [CONNECT RIGHT🔧](../../../crew_chief/overview.md#features) |
 |2.|  <input type="checkbox">  | Engine Master Switches | [ON](../../../cockpit/pilot/left_console/front_section.md#engine-master-switches) |
 |3.|  <input type="checkbox">  | External Air Flow | [ON🔧](../../../crew_chief/overview.md#features) |

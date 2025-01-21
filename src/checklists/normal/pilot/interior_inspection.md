@@ -2,8 +2,8 @@
 
 # **Interior Inspection Checklist**
 
-||| Checklist Item | Action |
-||| ---------------| -------|
+| | | Checklist Item | Action |
+|-|-| ---------------| -------|
 |1.|<input type="checkbox">|Ejection Seat Height|[ADJUST⚡](../../../cockpit/pilot/stick_seat.md#seat-position)|
 |2.|<input type="checkbox">|Auxiliary Armament Control Panel|[SET](../../../cockpit/pilot/left_console/aft_section.md#aft-section)|
 ||<input type="checkbox">|a. Gyro Switch|[NORM](../../../cockpit/pilot/left_console/aft_section.md#gyro-fast-erect-switch)||

@@ -3,7 +3,7 @@
 # **After Runway Lineup Checklist**
 
 | | | Checklist Item | Action |
-| | | ---------------| -------|
+|-|-| ---------------| -------|
 |1.|  <input type="checkbox">  | External Transfer | [AS DESIRED](../../../cockpit/pilot/left_console/center_section.md#external-transfer-switch) |
 |2.|  <input type="checkbox">  | Anti Skid | [ON & LIGHT OUT](../../../cockpit/pilot/left_console/front_section.md#anti-skid-switch) |
 |3.|  <input type="checkbox">  | Pitot Heat | [ON](../../../cockpit/pilot/right_console/front_section.md#pitot-heat-switch) |

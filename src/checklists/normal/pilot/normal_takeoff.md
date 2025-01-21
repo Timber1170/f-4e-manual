@@ -3,7 +3,7 @@
 # **Normal Takeoff Checklist**
 
 | | | Checklist Item | Action |
-| | | ---------------| -------|
+|-|-| ---------------| -------|
 |1.|  <input type="checkbox">  | Wheel Brakes | [APPLY](../../../systems/flight_controls_gear/gear_ground_handling.md#wheel-brakes) |
 |2.|  <input type="checkbox">  | Throttle | [85% RPM MAX](../../../cockpit/pilot/left_console/front_section.md#throttles) |
 |3.|<input type="checkbox">|Engine Gauges|[CHECK](../../../cockpit/pilot/right_main_panel.md#right-main-panel)|

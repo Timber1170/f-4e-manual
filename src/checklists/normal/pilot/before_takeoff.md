@@ -3,7 +3,7 @@
 # **Before Takeoff Checklist**
 
 | | | Checklist Item | Action |
-| | | ---------------| -------|
+|-|-| ---------------| -------|
 |1.|  <input type="checkbox">  | Optical Sight | [CHECK](../../../systems/weapon_systems/lcoss.md#lead-computing-optical-sight-system-lcoss) |
 |2.|  <input type="checkbox">  | Internal Wing Transfer | [NORMAL](../../../cockpit/pilot/left_console/center_section.md#internal-wing-transfer-switch) |
 |3.|  <input type="checkbox">  | STAB AUG Switches| [ENGAGE](../../../cockpit/pilot/left_console/center_section.md#afcs-control-panel) |
